@@ -3,8 +3,6 @@ layout: page
 title: Composer
 permalink: /composer/
 ---
-# Composer 
-
 As a student William studied composition with Patric Standford and Carey Blyton, and received encouragement from Lennox Berkeley and Edmund Rubbra. When time has allowed he has produced compositions in most genres including choral pieces, chamber works and music for stage and television.
 
 Selected Compositions:
