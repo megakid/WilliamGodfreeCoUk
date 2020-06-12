@@ -13,7 +13,7 @@ _Surrey Advertiser, January 1979_
 
 #### DURABLE FIRE
 'William Godfree has a keen appreciation of the overtones that simple archaic language have in the contemporary mind [...] responded joyfully to the imagery of 'Lenten Is Come' and was obviously stirred by 'Benedicite, What Dreamed I This Night?' producing a finely organised conflict of orchestral and vocal sound.'
-Richmond and Twickenham Times, April 1981_
+_Richmond and Twickenham Times, April 1981_
 
 #### ORGAN COLOURS
 'Bach's Prelude and Fugue in G and Guilmant's Morceau de Concert are the star turns, with William Godfree's Folia Variations following on closely.'
