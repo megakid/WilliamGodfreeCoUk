@@ -4,11 +4,10 @@ email: william@williamgodfree.co.uk
 
 # Theme settings
 minima:
-  social_links:
-    twitter: williamgodfree
-    facebook: williamgodfreemusic
-    instagram: williamgodfreemusic
-    linkedin: william-godfree-452a8358
+  twitter_username: williamgodfree
+  facebook_username: williamgodfreemusic
+  instagram_username: williamgodfreemusic
+  linkedin_username: william-godfree-452a8358
 
 # Build settings
 markdown: kramdown
