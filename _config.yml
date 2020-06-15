@@ -2,14 +2,14 @@
 title: William Godfree
 email: william@williamgodfree.co.uk
 
-
-# Build settings
-markdown: kramdown
-theme: minima
-
+# Theme settings
 minima:
   social_links:
     twitter: williamgodfree
     facebook: williamgodfreemusic
     instagram: williamgodfreemusic
     linkedin: william-godfree-452a8358
+
+# Build settings
+markdown: kramdown
+theme: minima
