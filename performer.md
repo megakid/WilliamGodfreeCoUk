@@ -10,7 +10,7 @@ William studied with Mary Peppin at the Guildhall School of Music and Drama. Sin
 William is a seasoned performer on the organ, and has played on more instruments than he can possibly remember, whether for services, weddings or funerals.
 
 #### NARRATOR
-William has for many years been the front man for the Southern Pro Musica's Children's Concerts, performed every spring in several venues across the south, conducted by Jonathan Willcocks.  He has featured in a number of pieces for narrator and orchestra including 'Tubby the Tuba', Peter and the Wolf', and William own piece with words by Roald Dahl, 'Aladdin and the Magic Lamp'.  In 2009 William appeared as narrator in a performance by his Chamber Band of Stravinsky's 'Soldier's Tale'.
+William was for many years the front man for the Southern Pro Musica's Children's Concerts, performed every spring in several venues across the south, conducted by Jonathan Willcocks.  He has featured in a number of pieces for narrator and orchestra including 'Tubby the Tuba', Peter and the Wolf', and William own piece with words by Roald Dahl, 'Aladdin and the Magic Lamp'.  In 2009 William appeared as narrator in a performance by his Chamber Band of Stravinsky's 'Soldier's Tale'.
 
 #### CONDUCTOR
 William has conducted many choirs and orchestras over the years.  He has directed a number of choral societies in Hampton, Twickenham, Haslemere as well as being Musical Director of a number of stage shows.  Every summer he teaches conducting and composition to students from the UK and abroad at the Language and Music for Life Course. 
