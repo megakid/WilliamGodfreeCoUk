@@ -10,4 +10,4 @@ William Godfree was born in London in 1954. He studied piano and composition at 
 
 Amongst his compositions are several suites for school orchestra, song-cycles, stage-musicals, and chamber works.
 
-He plays with the jazz band Add Hock and performs in cabaret with Hampshire MP Michael Mates.
+For some years he played with the jazz band Add Hock and performs in cabaret with Hampshire MP Michael Mates.
