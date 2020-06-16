@@ -44,4 +44,12 @@ Selected Compositions:
 | The Demon Drummer | Ballad Opera | 13-11-2003 Highfield School, Liphook                                   |
 | Hail, O Sun of Righteousness | Choral symphony | 29-11-2003 Haslemere Musical Society/Darrell Davison     |
 | Trio Rubino | Fl. Cor Anglais, Piano | 30-04-2006 Mary & Julian Edwards, WG                               |
-
+| Ox Carol | SATB Piano | 20-12-2010 Watchet & District Choral Society cond. Angela Morecroft               |
+| Child Roland | Community Opera | 18-05-2013 Haslemere, Surrey Opera South cond. WG                        |
+| Diamond Sequence | Choral Song Cycle| 03-02-2014 Royal Junior School, Hindhead RJS Choir                  |  
+| Ballad in Blue | Trumpet & Piano | 27-11-2015 Zerlina Vulliamy, tpt. WG piano.                            |    
+| Walzer A-Moll | Viola & Piano | 19-03-2016 Richard Crabtree, va, WG piano                                 |  
+| Fuga Camerata | SATB a capella | 01-08-2016 New Zealnd Youth Choir                                        |
+| Now And Then | Chamber Ensemble | 18-08-2017  Villa Favard, Firenze LMFL ensemble                         | 
+| When Music Sounds |SATB a capella | 10-08-2018 Villa Favrd, Firenze LMFL Choir cond. WG                   |  
+| Suite: 'Dreams' | Piano solo | 06-09-2020 London WG piano                                                 |   
