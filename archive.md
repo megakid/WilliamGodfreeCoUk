@@ -59,9 +59,9 @@ Southern Pro Musica
 Guildford Guildhall
 Rating: *****
 
-Stravinsky: The Soldier’s Tale
+Stravinsky: The Soldier’s Tale:
 “… The Soldier’s Tale, on this occasion presented unstaged but with beautifully characterised narration from Godfree”
 
-Walton: Façade
+Walton: Façade:
 “The narration was sensibly shared between William Godfree and Peter White, both most cleverly articulate.”
 Sebastian Forbes
