@@ -31,9 +31,14 @@ _Dover Express, December 1982_
 'Godfree's Divertimento lives up to its name by introducing reminiscences of the Victorian ballad, A Jig, and snatches of a sea shanty, all good material for wind instruments and put together with a flair which augurs well for further developments.'
 _Richmond and Twickenham Times, March 1983_
 
-#### REQUIEM
+#### REQUIEM, TWICKENHAM CHORAL SOCIETY
 'What emerged powerfully was the composer's depth of feeling in this most personal of forms, posing a challenge only to be met with courage and honesty.'
 _Alasdair James, Richmond and Twickenham Times, March 1990_
+
+#### REQUIEM, CHICHESTER SINGERS, CHICHESTER CATHEDRAL
+The Chichester Singers’ concert on 7th November 2015 had a mixed programme - an orchestral work and two choral works, comprising two familiar pieces by Mozart and one modern work by a composer whose name was unfamiliar to many in the audience. 
+William Godfree’s Requiem was composed 25 years ago, and some potential members of the audience may have been put off by the fact that it is a late 20th century composition, and also that the composer is a member of a jazz band and occasionally performs in cabaret.  They need not have worried.  The Requiem is a delightful piece, firmly fixed in the classical tradition, a pleasure to hear and obviously good to sing.  The Chichester Singers produced a fine mellow sound and were well supported by the orchestra of Southern Pro Musica.  There is a small part for the one soloist, but Charlotte Schoeters added emotion to the work with her soaring soprano voice.  It may be that Godfree had composed the work for a smaller choir and orchestra, but the combined forces in the Cathedral filled the building with music of great charm, and the audience with enthusiasm. 
+_Bill Witts, County Times 07-11-2015_
 
 ## PERFORMING
 
@@ -64,3 +69,6 @@ Stravinsky: The Soldier’s Tale:
 Walton: Façade:
 “The narration was sensibly shared between William Godfree and Peter White, both most cleverly articulate.”
 _Sebastian Forbes, Surrey Advertiser 16-06-2015_
+
+
+
