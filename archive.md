@@ -52,7 +52,6 @@ At Portsmouth Anglican Cathedral
 'At the end the programme switched to a summertime theme with touches of Gershwin, Coward and Mendelssohn among others. With William Godfree, a stylistically versatile pianist.'
 _Mike Allen, Portsmouth News, 23 June 2009_
 
-Surrey Advertiser 16-06-2015
 #### GUILDHALL CONCERT A JOY
 
 Southern Pro Musica
@@ -64,4 +63,4 @@ Stravinsky: The Soldier’s Tale:
 
 Walton: Façade:
 “The narration was sensibly shared between William Godfree and Peter White, both most cleverly articulate.”
-Sebastian Forbes
+_Sebastian Forbes, Surrey Advertiser 16-06-2015_
