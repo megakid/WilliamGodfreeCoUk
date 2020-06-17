@@ -51,5 +51,5 @@ Selected Compositions:
 | Walzer A-Moll | Viola & Piano | 19-03-2016 Richard Crabtree, va, WG piano                                 |  
 | Fuga Camerata | SATB a capella | 01-08-2016 New Zealnd Youth Choir                                        |
 | Now And Then | Chamber Ensemble | 18-08-2017  Villa Favard, Firenze LMFL ensemble                         | 
-| When Music Sounds |SATB a capella | 10-08-2018 Villa Favrd, Firenze LMFL Choir cond. WG                   |  
+| When Music Sounds |SATB a capella | 10-08-2018 Villa Favard, Firenze LMFL Choir cond. WG                   |  
 | Suite: 'Dreams' | Piano solo | 06-09-2020 London WG piano                                                 |   
