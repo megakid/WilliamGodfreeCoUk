@@ -8,6 +8,8 @@ facebook_username: williamgodfreemusic
 instagram_username: williamgodfreemusic
 linkedin_username: william-godfree-452a8358
 
+google_analytics: UA-170647982-2
+
 # Build settings
 markdown: kramdown
 theme: minima
