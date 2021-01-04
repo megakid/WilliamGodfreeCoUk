@@ -2,6 +2,7 @@
 layout: page
 title: Archive
 permalink: /archive/
+Order: 2
 ---
 # What they say...
 
