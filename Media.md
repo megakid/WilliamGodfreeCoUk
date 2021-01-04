@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 04_Media
+title: Media
 Order: 4
 permalink: /media/
 ---
