@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 01_Performer
+title: Performer
 permalink: /performer/
 Order: 1
 ---
