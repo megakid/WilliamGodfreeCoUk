@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 02_Composer
+title: Composer
 permalink: /composer/
 Order: 2
 ---
