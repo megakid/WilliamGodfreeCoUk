@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Media
-permalink: /archive/
+permalink: /media/
 ---
