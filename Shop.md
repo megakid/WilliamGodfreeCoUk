@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 05_Shop
+title: Shop
 permalink: /shop/
 Order: 5
 ---
