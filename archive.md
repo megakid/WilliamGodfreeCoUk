@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 03_Archive
+title: Archive
 permalink: /archive/
 Order: 3
 ---
