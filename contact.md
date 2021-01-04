@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: 06_Contact
 permalink: /contact/
 Order: 6
 ---
