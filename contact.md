@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-Order: 6
+Order: 7
 ---
 
 To enquire about cabaret and other performances, or commissioning a new work, email me at <william@williamgodfree.co.uk>

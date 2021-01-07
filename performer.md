@@ -2,7 +2,7 @@
 layout: page
 title: Performer
 permalink: /performer/
-Order: 1
+Order: 3
 ---
 #### PIANIST
 William studied with Mary Peppin at the Guildhall School of Music and Drama. Since then his piano playing has mainly centred round accompanying, appearing with the distinguished singers Catherine Bott and James Bowman in the Portsmouth Festivities of 2009 (see 'What They Say'), and playing regularly for the renowned Verdi baritone John Rawnsley. As soloist, he has twice featured as soloist in Lambert's 'Rio Grande' and in his own creation, William Godfree's Chamber Band. In 2016 he toured as Musical Director in 'Roy Hudd's Very Own Music Hall'.  He is a seasoned repetiteur and has assisted many a choral society, opera and musical theatre group, instrumentalist and singer.
