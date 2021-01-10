@@ -2,6 +2,15 @@
 title: William Godfree
 email: william@williamgodfree.co.uk
 
+header_pages:
+  - latestnews.md
+  - performer.md
+  - composer.md
+  - archive.md
+  - media.md
+  - shop.md
+  - contact.md
+
 # Theme settings
 twitter_username: williamgodfree
 facebook_username: williamgodfreemusic
